@@ -23,7 +23,7 @@
 
 ## Explanation
 
-trouble.sh 
+trouble.sh скрипт проверяет состояние основных служб. Активные подсвечивает зелёным, неактивные красным.
 
 
 ## Cloning an Existing Repository ( Clone with HTTPS )
