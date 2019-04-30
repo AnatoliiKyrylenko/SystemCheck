@@ -1,7 +1,7 @@
 # trouble
 <p align="center">trouble.sh | BASH SCRIPT</p>
 <p align="center">
-  <img src ="https://github.com/AnatoliiKyrylenko/SystemCheck/blob/master/trouble1.pnghttps://github.com/AnatoliiKyrylenko/SystemCheck/blob/master/trouble1.png"/>
+  <img src ="https://github.com/AnatoliiKyrylenko/SystemCheck/blob/master/trouble1.png"/>
 </p>
 
 
