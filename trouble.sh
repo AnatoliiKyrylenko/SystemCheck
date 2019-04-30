@@ -3,7 +3,7 @@ echo "--------------------------"
 # Services list, can be expanded
 for service in sshd apache2 nginx mysql mariadb httpd cron crond firewalld ufw; 
 do
-systemctl status $service | grep --quiet "loaded"
+systemctl status $service 2>/dev/null | grep --quiet "loaded"
 	# If grep detect "loaded", returning 0
         if [ $? -eq 0 ]; then
 		# Green notice - active
